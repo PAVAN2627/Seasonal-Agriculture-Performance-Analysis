@@ -6,7 +6,7 @@
 
 | Resource | Link |
 |----------|------|
-| 📊 **Project Presentation (PPT)** | [View Presentation](https://link-to-your-ppt.com) |
+| 📊 **Project Presentation (PPT)** | [View Presentation](https://docs.google.com/presentation/d/1H0ui5jPBJkgORbYnPQXkCj4I2ZypodIZ/edit?usp=sharing&ouid=104590056778434731836&rtpof=true&sd=true) |
 | 🏆 **Course Completion Certificate** | [View Certificate](https://drive.google.com/file/d/1lkUfQZJbFG666zNg0aKJ3KpkHuRmVTXl/view?usp=sharing) |
 
 ---
